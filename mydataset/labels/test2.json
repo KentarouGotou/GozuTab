@@ -1,0 +1,459 @@
+[
+    {
+        "artist": "unknown",
+        "downtune": 0,
+        "tempo": 120,
+        "instruments": [
+            "clean0"
+        ]
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "960": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s1:f4",
+                            "nfx": [
+                                "nfx:dead"
+                            ]
+                        }
+                    ],
+                    "duration": 960
+                },
+                "1920": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s2:f5",
+                            "nfx": [
+                                "nfx:harmonic:1"
+                            ]
+                        }
+                    ],
+                    "duration": 960
+                },
+                "2880": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f6",
+                            "nfx": [
+                                "nfx:vibrato"
+                            ]
+                        }
+                    ],
+                    "duration": 960
+                },
+                "3840": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f6",
+                            "nfx": [
+                                "nfx:bend:type1:pos0:val0:vib0:pos6:val4:vib0:pos9:val8:vib0:pos12:val4:vib0"
+                            ]
+                        },
+                        {
+                            "token": "clean0:note:s5:f4",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 480
+                },
+                "4320": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f5",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s5:f7",
+                            "nfx": [
+                                "nfx:slide:1"
+                            ]
+                        }
+                    ],
+                    "duration": 60
+                },
+                "4380": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f6",
+                            "nfx": [
+                                "nfx:tie"
+                            ]
+                        },
+                        {
+                            "token": "clean0:note:s5:f8",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 60
+                },
+                "4440": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f2",
+                            "nfx": [
+                                "nfx:hammer"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "4680": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f4",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s4:f4",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 120
+                }
+            }
+        },
+        "measure_tokens": [],
+        "clock": 960
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "4800": {
+                    "bfx": [
+                        {
+                            "token": "bfx:tremolo_bar:type1:pos0:val-4:vib0:pos9:val-4:vib0:pos12:val0:vib0",
+                            "params": []
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s4:f2",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s5:f0",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 960
+                },
+                "5760": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s1:f3",
+                            "nfx": [
+                                "nfx:trill:fret4:duration240"
+                            ]
+                        }
+                    ],
+                    "duration": 960
+                },
+                "6720": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s4:f3",
+                            "nfx": [
+                                "nfx:palm_mute"
+                            ]
+                        }
+                    ],
+                    "duration": 960
+                },
+                "7680": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 960
+                }
+            }
+        },
+        "measure_tokens": [
+            "measure:repeat_open"
+        ],
+        "clock": 4800
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "8640": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s4:f4",
+                            "nfx": [
+                                "nfx:staccato"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "8880": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s2:f5",
+                            "nfx": [
+                                "nfx:hammer"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "9120": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s2:f3",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 240
+                },
+                "9360": {
+                    "bfx": [
+                        {
+                            "token": "bfx:slap_effect:1",
+                            "params": []
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s4:f2",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 240
+                },
+                "9600": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "9840": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "10080": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f8",
+                            "nfx": [
+                                "nfx:ghost_note"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "10320": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "10560": {
+                    "bfx": [
+                        {
+                            "token": "bfx:stroke:1:16",
+                            "params": []
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s2:f2",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s3:f2",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s4:f2",
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s5:f2",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 240
+                },
+                "10800": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "11040": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "11280": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f4",
+                            "nfx": [
+                                "nfx:dead"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "11520": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f5",
+                            "nfx": []
+                        }
+                    ],
+                    "duration": 240
+                },
+                "11760": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f6",
+                            "nfx": [
+                                "nfx:tremoloPicking:duration480"
+                            ]
+                        }
+                    ],
+                    "duration": 240
+                },
+                "12000": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                },
+                "12240": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 240
+                }
+            }
+        },
+        "measure_tokens": [
+            "measure:repeat_alternative:1",
+            "measure:repeat_close:1"
+        ],
+        "clock": 8640
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "12480": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 2880
+                }
+            }
+        },
+        "measure_tokens": [],
+        "clock": 12480
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "15360": {
+                    "bfx": [
+                        {
+                            "token": "bfx:tempo_change:100",
+                            "params": []
+                        },
+                        {
+                            "token": "bfx:tempo_change:100",
+                            "params": []
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 960
+                },
+                "16320": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 1920
+                }
+            }
+        },
+        "measure_tokens": [
+            "measure:repeat_close:1"
+        ],
+        "clock": 15360
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "18240": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": 2880
+                }
+            }
+        },
+        "measure_tokens": [
+            "measure:repeat_alternative:2"
+        ],
+        "clock": 18240
+    }
+]

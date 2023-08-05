@@ -1,0 +1,3346 @@
+[
+    {
+        "artist": "unknown",
+        "downtune": 0,
+        "tempo": 100,
+        "instruments": [
+            "clean0"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 960,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 960,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 1440,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 1920,
+        "duration": 480,
+        "string": 3,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 2400,
+        "duration": 480,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 2880,
+        "duration": 480,
+        "string": 4,
+        "fret": 7,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 3360,
+        "duration": 480,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 3840,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 3840,
+        "duration": 480,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 4320,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 4800,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 4800,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 5280,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 5760,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 5760,
+        "duration": 480,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 6240,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 6720,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 6720,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 7680,
+        "duration": 960,
+        "string": 3,
+        "fret": 7,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 8640,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 8640,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 9600,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 9600,
+        "duration": 1920,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 9600,
+        "duration": 1920,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 9600,
+        "duration": 1920,
+        "string": 3,
+        "fret": 6,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 9600,
+        "duration": 1920,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 11520,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 12480,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 12480,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 12480,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 13440,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 13440,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 14400,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 14400,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 15360,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 15360,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 15360,
+        "duration": 960,
+        "string": 4,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 16320,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 16320,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 16800,
+        "duration": 480,
+        "string": 1,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 17280,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 17280,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 18240,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 18240,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 18240,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 19200,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 19200,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 20160,
+        "duration": 960,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 20160,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 21120,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 21120,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 21120,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 22080,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 22080,
+        "duration": 960,
+        "string": 6,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 23040,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 23040,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 24000,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 24000,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 24000,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 24960,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 24960,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 25920,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 25920,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 26880,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 26880,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 26880,
+        "duration": 960,
+        "string": 4,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 26880,
+        "duration": 960,
+        "string": 5,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 27840,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 28800,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 28800,
+        "duration": 960,
+        "string": 4,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 28800,
+        "duration": 960,
+        "string": 5,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 29760,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 29760,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 29760,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 30720,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 30720,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 31680,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 31680,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 32640,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 32640,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 32640,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 33120,
+        "duration": 480,
+        "string": 5,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 33600,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 33600,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 34560,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 34560,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 35520,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 35520,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 35520,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 36480,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 36480,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 37440,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 37440,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 38400,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 38400,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 38400,
+        "duration": 960,
+        "string": 4,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 39360,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 39360,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 39840,
+        "duration": 480,
+        "string": 1,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 40320,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 40320,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 41280,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 41280,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 41280,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 42240,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 42240,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 43200,
+        "duration": 960,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 43200,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 44160,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 44160,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 44160,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 45120,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 45120,
+        "duration": 960,
+        "string": 6,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 46080,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 46080,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 47040,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 47040,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 47040,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 47040,
+        "duration": 960,
+        "string": 4,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 48000,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 48960,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 48960,
+        "duration": 960,
+        "string": 4,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 49920,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 49920,
+        "duration": 480,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 50400,
+        "duration": 480,
+        "string": 3,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 50400,
+        "duration": 480,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 50880,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 50880,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 51840,
+        "duration": 960,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 52800,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 52800,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 53760,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 53760,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 54240,
+        "duration": 480,
+        "string": 3,
+        "fret": 6,
+        "effects": [
+            "nfx:slide:1"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 54720,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 54720,
+        "duration": 960,
+        "string": 3,
+        "fret": 7,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 55680,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 55680,
+        "duration": 1440,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 55680,
+        "duration": 1440,
+        "string": 3,
+        "fret": 6,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 55680,
+        "duration": 1440,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 57120,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:slide:1"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 57600,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 57600,
+        "duration": 960,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 57600,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 58560,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 58560,
+        "duration": 480,
+        "string": 5,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 59040,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:hammer"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 59520,
+        "duration": 960,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 59520,
+        "duration": 960,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 60480,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 60480,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 60960,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:hammer"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 61440,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61440,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61440,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61440,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61920,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61920,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 61920,
+        "duration": 480,
+        "string": 5,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 62400,
+        "duration": 960,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 62400,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 62400,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 63360,
+        "duration": 960,
+        "string": 3,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 63360,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 64320,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 64320,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 64320,
+        "duration": 960,
+        "string": 5,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 65280,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 65280,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 66240,
+        "duration": 960,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 66240,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 67200,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 67200,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 67200,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 68160,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 68160,
+        "duration": 960,
+        "string": 6,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 69120,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 69120,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 70080,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 70080,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 70080,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 71040,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 71040,
+        "duration": 960,
+        "string": 5,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 72000,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 72000,
+        "duration": 960,
+        "string": 5,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 72960,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 72960,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 73440,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 73440,
+        "duration": 480,
+        "string": 5,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 73920,
+        "duration": 480,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 73920,
+        "duration": 480,
+        "string": 5,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 74400,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 74400,
+        "duration": 480,
+        "string": 4,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 74880,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 74880,
+        "duration": 960,
+        "string": 4,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 75840,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 75840,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 75840,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 76800,
+        "duration": 960,
+        "string": 6,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 77760,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 77760,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 78720,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 78720,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 78720,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 79200,
+        "duration": 480,
+        "string": 5,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 79680,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 79680,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 80160,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:slide:1"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 80640,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 80640,
+        "duration": 960,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 81600,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 81600,
+        "duration": 480,
+        "string": 5,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 82080,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:hammer"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 82560,
+        "duration": 960,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 82560,
+        "duration": 960,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 83520,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 83520,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84000,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:hammer"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 84480,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84480,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84480,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84480,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84960,
+        "duration": 480,
+        "string": 1,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84960,
+        "duration": 480,
+        "string": 2,
+        "fret": 5,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 84960,
+        "duration": 480,
+        "string": 5,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 85440,
+        "duration": 960,
+        "string": 1,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 85440,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 85440,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 86400,
+        "duration": 960,
+        "string": 3,
+        "fret": 5,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 86400,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 87360,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 87360,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 87360,
+        "duration": 960,
+        "string": 5,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 88320,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 88320,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 89280,
+        "duration": 960,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 89280,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 90240,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 90240,
+        "duration": 960,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 90240,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 91200,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 91200,
+        "duration": 960,
+        "string": 6,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 92160,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 92160,
+        "duration": 960,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 93120,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 93120,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 93120,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 93120,
+        "duration": 960,
+        "string": 4,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 94080,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 95040,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 96000,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 96000,
+        "duration": 480,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 96480,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 96960,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 96960,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 97920,
+        "duration": 960,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 98880,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 98880,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 99840,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 99840,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 100800,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 100800,
+        "duration": 960,
+        "string": 3,
+        "fret": 7,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 101760,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 101760,
+        "duration": 1920,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 101760,
+        "duration": 1920,
+        "string": 3,
+        "fret": 6,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 101760,
+        "duration": 1920,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 103680,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 103680,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 104640,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 104640,
+        "duration": 480,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 104640,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 105120,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 105600,
+        "duration": 480,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 106080,
+        "duration": 480,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 106080,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 106560,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 106560,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 107520,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 107520,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 107520,
+        "duration": 480,
+        "string": 4,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 108000,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 108480,
+        "duration": 480,
+        "string": 1,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 108480,
+        "duration": 480,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 108960,
+        "duration": 480,
+        "string": 1,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 109440,
+        "duration": 960,
+        "string": 1,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 109440,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 110400,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 110400,
+        "duration": 480,
+        "string": 2,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 110400,
+        "duration": 480,
+        "string": 6,
+        "fret": 3,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 110880,
+        "duration": 480,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 111360,
+        "duration": 480,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 111840,
+        "duration": 960,
+        "string": 2,
+        "fret": 3,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 111840,
+        "duration": 960,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 112800,
+        "duration": 480,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 112800,
+        "duration": 480,
+        "string": 4,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 113280,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 113280,
+        "duration": 480,
+        "string": 3,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 113760,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 114240,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 114240,
+        "duration": 480,
+        "string": 4,
+        "fret": 2,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 114720,
+        "duration": 480,
+        "string": 3,
+        "fret": 2,
+        "effects": [
+            "nfx:slide:1"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 114720,
+        "duration": 480,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 115200,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 115200,
+        "duration": 960,
+        "string": 3,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 115200,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 116160,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 116160,
+        "duration": 960,
+        "string": 2,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 116160,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 117120,
+        "duration": 960,
+        "string": 2,
+        "fret": 0,
+        "effects": [
+            "nfx:trill:fret1:duration240"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 118080,
+        "duration": 960,
+        "string": 3,
+        "fret": 2,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 118080,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 119040,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 119040,
+        "duration": 480,
+        "string": 3,
+        "fret": 1,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 119520,
+        "duration": 480,
+        "string": 6,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 120000,
+        "duration": 960,
+        "string": 4,
+        "fret": 4,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 120000,
+        "duration": 960,
+        "string": 6,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 120960,
+        "duration": 960,
+        "string": 4,
+        "fret": 6,
+        "effects": []
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 121920,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 121920,
+        "duration": 960,
+        "string": 4,
+        "fret": 7,
+        "effects": [
+            "nfx:slide:1"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 121920,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 122880,
+        "duration": 480,
+        "string": 4,
+        "fret": 12,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 123360,
+        "duration": 480,
+        "string": 4,
+        "fret": 7,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 123360,
+        "duration": 480,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 123840,
+        "duration": 960,
+        "string": 4,
+        "fret": 9,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 123840,
+        "duration": 960,
+        "string": 5,
+        "fret": 0,
+        "effects": [
+            "nfx:tie"
+        ]
+    },
+    {
+        "type": "measure",
+        "track": -1,
+        "start": 124800,
+        "tokens": [
+            "new_measure"
+        ]
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 124800,
+        "duration": 2880,
+        "string": 4,
+        "fret": 11,
+        "effects": []
+    },
+    {
+        "type": "note",
+        "track": 0,
+        "instrument_prefix": "clean0",
+        "start": 124800,
+        "duration": 2880,
+        "string": 5,
+        "fret": 0,
+        "effects": []
+    }
+]
