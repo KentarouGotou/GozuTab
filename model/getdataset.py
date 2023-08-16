@@ -4,7 +4,9 @@ import numpy as np
 from torchvision import transforms
 
 class Mydataset(data.Dataset):
-    def __init__(self, data_folder_path="../mydataset/annotation/", transform=None, context_window_size=9):
+    def __init__(self, data_folder_path="../mydataset", transform=None, context_window_size=9):
+        self.data_folder_path = data_folder_path
+        self.audio_paths = self.data_folder_path + "/wav_files"
         self.data_paths = self._get_data_paths(data_folder_path)
         self.transform = transform
         self.context_window_size = context_window_size

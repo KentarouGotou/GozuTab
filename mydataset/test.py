@@ -2059,15 +2059,11 @@ def main():
     usage = """Usage:
 
 ENCODE (guitar pro --> json)
-    If you want to convert all files in the tab folder
-        python test.py encode input_folder output_folder 
     If you want to convert a specific file
         python dadagp.py encode input.gp5 output.json [artist_name]
         ex) python dadagp.py encode tab/track1.gp5 labels/track1.json unknown
 
 DECODE (tokens --> guitar pro)
-    If you want to convert all files in the tab folder
-        python dadagp.py
     If you want to convert a specific file
         python dadagp.py decode input.json output.gp5
         ex) python dadagp.py encode labels/track1.json tab/track1.gp5

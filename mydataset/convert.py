@@ -3,6 +3,10 @@ import json
 import pprint
 import sys
 
+track = {
+    "clean0": "clean0",
+}
+
 effect_list = {
     # "dead" : "ded",
     # "ghost_note" : "gst",
@@ -35,7 +39,7 @@ def translate_trackbeats(track, inst):
                 # position
                 string_number = string["token"].split(":")[2][1:]
                 fret_number = int(string["token"].split(":")[3][1:])
-                position[string_number] = fret_number
+                position[string_number] = str(fret_number)
                 # effects
                 nfx = string["nfx"]
                 for l in nfx:
@@ -106,6 +110,7 @@ def translate_all_measure(content, inst):
     all_notes = []
     measure_index = 0
     repeat_close_clocks = []
+    print(content[0])
     #process each measure
     while measure_index < len(content):
         measure = content[measure_index]
@@ -139,29 +144,38 @@ def translate_all_measure(content, inst):
             measure_index += 1
     
     return all_notes
-        
-def main():
-    usage = """
-If you want to convert all json files in the folder, please use this command:
-    python convert.py [folder name] [instrument] [output folder name]
-If you want to convert json file, please use this command:
-    python convert.py [json file] [instrument] [output file]
-    ex) python convert.py labels/test2.json clean0 test2.json
-    """
+
+def encode(file, inst, output):
     #load json file
-    file = sys.argv[1]
     data = open(file, "r")
     load = json.load(data)
     #seperate head and content
     head = load[0]
     content = load[1:]
-    print(head)
     #translate content
-    inst = sys.argv[2]
     all_notes = translate_all_measure(content, inst)
-    #write json file
-    with open(sys.argv[3], "w") as f:
-        json.dump(all_notes, f, indent=4)
-
+    #concatenate head and content
+    concatenate = [head] + all_notes
+    #write to json file
+    with open(output, "w") as f:
+        json.dump(concatenate, f, indent=4)
+        
+def main():
+    usage = """
+ENCODE
+If you want to convert json file, please use this command:
+    python convert.py encode [json file] [instrument] [output file]
+    ex) python convert.py labels/test2.json clean0 test2.json
+    """
+    assert len(sys.argv) >= 4, usage + "\nError: Not enough arguments."
+    if sys.argv[1] == "encode":
+        assert os.path.exists(sys.argv[2]), usage + "\nError: File not found."
+        assert sys.argv[3] in track.keys(), usage + "\nError: Invalid instrument."
+        encode(sys.argv[2], sys.argv[3], sys.argv[4])
+    else:
+        print(usage)
+        print("Error: Invalid command.")
+        sys.exit(1)
+        
 if __name__ == "__main__":
     main()
