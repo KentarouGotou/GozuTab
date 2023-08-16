@@ -4,10 +4,10 @@ import numpy as np
 from torchvision import transforms
 
 class Mydataset(data.Dataset):
-    def __init__(self, data_folder_path="../mydataset", transform=None, context_window_size=9):
-        self.data_folder_path = data_folder_path
-        self.audio_paths = self.data_folder_path + "/wav_files"
-        self.data_paths = self._get_data_paths(data_folder_path)
+    def __init__(self, dataset_path="../mydataset", transform=None, context_window_size=9):
+        self.dataset_path = dataset_path
+        self.audio_folder_path = self.dataset_path + "/wav_files"
+        self.tab_folder_path = self.dataset_path + "/convetab_files"
         self.transform = transform
         self.context_window_size = context_window_size
         self.halfwin = context_window_size // 2
