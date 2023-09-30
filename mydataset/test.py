@@ -808,7 +808,7 @@ def oops_theres_a_note_here(new_event, events_this_measure, verbose=False):
                     return False
         # okay now handle cases where a note was already playing on the same instrument
         elif event["type"] in ["note"] \
-         and event["start"]+event["duration"]>new_event["start"] \
+         and event["start"]+event["duration"]["time"]>new_event["start"] \
          and event["instrument_prefix"] == new_event["instrument_prefix"]:
             # A note was already playing
             if(new_event["type"]=="rest"):
@@ -1149,7 +1149,11 @@ def guitarpro2json(song, artist, verbose=False):
                     # Use this function which finds the nearest time supported by FromTime
                     #beat_duration = convert_to_nearest_supported_time(beat.duration.time) 
                     #beat_start = convert_to_nearest_supported_time(beat.start - measure.start) + measure.start
-                    beat_duration = beat.duration.time
+                    beat_duration_time = beat.duration.time
+                    beeat_duration_index = beat.duration.index
+                    beat_isDotted = beat.duration.isDotted
+                    beat_tuplet = {"enters": beat.duration.tuplet.enters, "times": beat.duration.tuplet.times}
+                    beat_duration = {"time": beat_duration_time, "index": beeat_duration_index, "isDotted": beat_isDotted, "tuplet": beat_tuplet}
                     beat_start = beat.start
                     #print(beat_start, beat.start)
                     if(beat.status.name=="empty"): 

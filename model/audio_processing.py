@@ -54,7 +54,8 @@ class Processing:
             "bend3" : "bn3",
             # "slide" : "sld",
             # "hammer" : "h_p",
-            "trill" : "trl",
+            "trill1" : "trl1",
+            "trill2" : "trl2",            
             # "palm_mute" : "brm",
             # "staccato" : "stc",
             # "slap_effect" : "slp"
@@ -63,6 +64,7 @@ class Processing:
         self.effect_idx = []
         for effect in self.effect_list:
             self.effect_idx.append(self.effect_list[effect])
+        self.effect_number = len(self.effect_idx) + 1
         
         # save file path
         self.save_dir_path = "preprocessed/"
@@ -73,54 +75,68 @@ class Processing:
         self.filename = filenames[number][:-5]
         return self.filename
     
-    def encode_onehot_position(self, data):
-        position = np.zeros((6, 21))
-        for string in data:
-            if data[string] == "-":
-                fret = 0
+    def convert_position2index(self, position):
+        position_indies = []
+        for string in position:
+            if position[string] == "-":
+                position_indies.append(0)
             else:
-                fret = int(data[string]) + 1
-            position[int(string)-1][fret] = 1
-        return position
+                position_indies.append(int(position[string]) + 1)
+        return position_indies
     
-    def encode_onehot_effects(self, data):
-        effects = np.zeros((6, 6))
-        for string in data:
-            if data[string] == "-":
-                effect = 0
+    def convert_effect2index(self, effect):
+        effect_indies = []
+        for string in effect:
+            if effect[string] == "-":
+                effect_indies.append(0)
             else:
-                effect = self.effect_idx.index(data[string]) + 1
-            effects[int(string)-1][effect] = 1
-        return effects
+                effect_indies.append(self.effect_idx.index(effect[string]) + 1)
+        return effect_indies
     
-    def encode_onehot_ties(self, data):
-        ties = np.zeros((6, 2))
-        for string in data:
-            if data[string] == "-":
-                tie = 0
+    def convert_ties2index(self, ties):
+        ties_indies = []
+        for string in ties:
+            if ties[string] == "-":
+                ties_indies.append(0)
             else:
-                tie = 1
-            ties[int(string)-1][tie] = 1
-        return ties
+                ties_indies.append(1)
+        return ties_indies
+    
+    def convert_duration2index(self, duration):
+        duration_indies = []
+        # duration index
+        duration_indies.append(duration["index"])
+        # is dotted
+        if duration["isDotted"]:
+            duration_indies.append(1)
+        else:
+            duration_indies.append(0)
+        # tuplet
+        duration_indies.append(duration["tuplet"]["enters"])
+        return duration_indies
+    
+    def convert2index(self, tab, index_mode):
+        position_indies = self.convert_position2index(tab["position"])
+        effect_indies = self.convert_effect2index(tab["effects"])
+        ties_indies = self.convert_ties2index(tab["ties"])
+        duration_indies = self.convert_duration2index(tab["duration"])
+        if index_mode == "S&F":
+            output = [position_indies, effect_indies, ties_indies, duration_indies]
+        return output
     
     def load_and_save_tab_file(self):
         with open(self.tab_dir_path + self.filename + ".json", "r") as f:
             tab_json_data = json.load(f)
-        header = tab_json_data[0]
+        tempo = tab_json_data[0]["tempo"]
         content = tab_json_data[1:]
         all_tab = []
         for tab in content:
-            position = self.encode_onehot_position(tab["position"])
-            effects = self.encode_onehot_effects(tab["effects"])
-            ties = self.encode_onehot_ties(tab["ties"])
-            tab = {
-                "position" : position,
-                "effects" : effects,
-                "ties" : ties
-            }
+            tab = self.convert2index(tab, index_mode="S&F")
             all_tab.append(tab)
-        output = [header, all_tab]
-        print(output[0], output[1][0])
+        output = [tempo, all_tab]
+        # save the data
+        save_path = self.save_dir_path + "tab/"
+        np.save(save_path + self.filename + ".npz", output)
         return output
         
     def load_and_save_raw_audio_file(self):

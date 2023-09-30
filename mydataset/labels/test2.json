@@ -1,7 +1,7 @@
 [
     {
         "artist": "unknown",
-        "downtune": -12,
+        "downtune": 0,
         "tuning_types": {
             "0": "g6_standard"
         },
@@ -18,10 +18,20 @@
                     "notes": [
                         {
                             "token": "clean0:note:s1:f4",
-                            "nfx": []
+                            "nfx": [
+                                "nfx:dead"
+                            ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "1920": {
                     "bfx": [],
@@ -33,17 +43,35 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "2880": {
                     "bfx": [],
                     "notes": [
                         {
                             "token": "clean0:note:s3:f6",
-                            "nfx": []
+                            "nfx": [
+                                "nfx:vibrato"
+                            ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "3840": {
                     "bfx": [],
@@ -51,18 +79,23 @@
                         {
                             "token": "clean0:note:s3:f6",
                             "nfx": [
-                                "nfx:staccato",
-                                "nfx:bend:type1:pos0:val0:vib0:pos6:val8:vib0:pos12:val4:vib0"
+                                "nfx:bend:type1:pos0:val0:vib0:pos6:val4:vib0:pos9:val8:vib0:pos12:val4:vib0"
                             ]
                         },
                         {
                             "token": "clean0:note:s5:f4",
-                            "nfx": [
-                                "nfx:vibrato"
-                            ]
+                            "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "4320": {
                     "bfx": [],
@@ -70,9 +103,23 @@
                         {
                             "token": "clean0:note:s3:f5",
                             "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s5:f7",
+                            "nfx": [
+                                "nfx:slide:1"
+                            ]
                         }
                     ],
-                    "duration": 60
+                    "duration": {
+                        "time": 60,
+                        "index": 6,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "4380": {
                     "bfx": [],
@@ -82,29 +129,63 @@
                             "nfx": [
                                 "nfx:tie"
                             ]
+                        },
+                        {
+                            "token": "clean0:note:s5:f8",
+                            "nfx": []
                         }
                     ],
-                    "duration": 60
+                    "duration": {
+                        "time": 60,
+                        "index": 6,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "4440": {
                     "bfx": [],
                     "notes": [
                         {
                             "token": "clean0:note:s3:f2",
-                            "nfx": []
+                            "nfx": [
+                                "nfx:hammer"
+                            ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "4680": {
                     "bfx": [],
                     "notes": [
                         {
+                            "token": "clean0:note:s3:f4",
+                            "nfx": []
+                        },
+                        {
                             "token": "clean0:note:s4:f4",
                             "nfx": []
                         }
                     ],
-                    "duration": 120
+                    "duration": {
+                        "time": 120,
+                        "index": 5,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -115,38 +196,71 @@
         "trackbeats": {
             "clean0": {
                 "4800": {
-                    "bfx": [],
+                    "bfx": [
+                        {
+                            "token": "bfx:tremolo_bar:type1:pos0:val-4:vib0:pos9:val-4:vib0:pos12:val0:vib0",
+                            "params": []
+                        }
+                    ],
                     "notes": [
                         {
                             "token": "clean0:note:s4:f2",
-                            "nfx": [
-                                "nfx:vibrato"
-                            ]
+                            "nfx": []
+                        },
+                        {
+                            "token": "clean0:note:s5:f0",
+                            "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "5760": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:note:s4:f2",
+                            "token": "clean0:note:s1:f3",
                             "nfx": [
-                                "nfx:tie"
+                                "nfx:trill:fret4:duration240"
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "6720": {
                     "bfx": [],
                     "notes": [
                         {
                             "token": "clean0:note:s4:f3",
-                            "nfx": []
+                            "nfx": [
+                                "nfx:palm_mute"
+                            ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "7680": {
                     "bfx": [],
@@ -155,7 +269,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -172,38 +294,81 @@
                     "notes": [
                         {
                             "token": "clean0:note:s4:f4",
-                            "nfx": []
+                            "nfx": [
+                                "nfx:staccato"
+                            ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "8880": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:rest"
+                            "token": "clean0:note:s2:f5",
+                            "nfx": [
+                                "nfx:hammer"
+                            ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "9120": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:rest"
+                            "token": "clean0:note:s2:f3",
+                            "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "9360": {
-                    "bfx": [],
+                    "bfx": [
+                        {
+                            "token": "bfx:slap_effect:1",
+                            "params": []
+                        }
+                    ],
                     "notes": [
                         {
                             "token": "clean0:note:s4:f2",
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "9600": {
                     "bfx": [],
@@ -212,7 +377,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "9840": {
                     "bfx": [],
@@ -221,28 +394,54 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "10080": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f8",
+                            "nfx": [
+                                "nfx:ghost_note"
+                            ]
+                        }
+                    ],
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                },
+                "10320": {
                     "bfx": [],
                     "notes": [
                         {
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
-                },
-                "10320": {
-                    "bfx": [],
-                    "notes": [
-                        {
-                            "token": "clean0:note:s3:f2",
-                            "nfx": []
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
                         }
-                    ],
-                    "duration": 960
+                    }
                 },
-                "11280": {
+                "10560": {
                     "bfx": [
                         {
                             "token": "bfx:stroke:1:16",
@@ -250,10 +449,6 @@
                         }
                     ],
                     "notes": [
-                        {
-                            "token": "clean0:note:s1:f2",
-                            "nfx": []
-                        },
                         {
                             "token": "clean0:note:s2:f2",
                             "nfx": []
@@ -269,149 +464,148 @@
                         {
                             "token": "clean0:note:s5:f2",
                             "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s6:f2",
-                            "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                },
+                "10800": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                },
+                "11040": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                },
+                "11280": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:note:s3:f4",
+                            "nfx": [
+                                "nfx:dead"
+                            ]
+                        }
+                    ],
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "11520": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:note:s1:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s2:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s3:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s4:f4",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s5:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s6:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
+                            "token": "clean0:note:s3:f5",
+                            "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "11760": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:note:s1:f5",
-                            "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s2:f5",
-                            "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s3:f5",
-                            "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s4:f5",
-                            "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s5:f5",
-                            "nfx": []
-                        },
-                        {
-                            "token": "clean0:note:s6:f5",
-                            "nfx": []
+                            "token": "clean0:note:s3:f6",
+                            "nfx": [
+                                "nfx:tremoloPicking:duration480"
+                            ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "12000": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:note:s1:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s2:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s3:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s4:f4",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s5:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
-                        },
-                        {
-                            "token": "clean0:note:s6:f2",
-                            "nfx": [
-                                "nfx:tie"
-                            ]
+                            "token": "clean0:rest"
                         }
                     ],
-                    "duration": 60
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
-                "12060": {
+                "12240": {
                     "bfx": [],
                     "notes": [
                         {
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 360
-                },
-                "12420": {
-                    "bfx": [],
-                    "notes": [
-                        {
-                            "token": "clean0:rest"
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
                         }
-                    ],
-                    "duration": 60
+                    }
                 }
             }
         },
         "measure_tokens": [
+            "measure:repeat_alternative:1",
             "measure:repeat_close:1"
         ],
         "clock": 8640
@@ -426,42 +620,99 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 960
-                },
-                "13440": {
-                    "bfx": [],
-                    "notes": [
-                        {
-                            "token": "clean0:rest"
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
                         }
-                    ],
-                    "duration": 960
-                },
-                "14400": {
-                    "bfx": [],
-                    "notes": [
-                        {
-                            "token": "clean0:rest"
-                        }
-                    ],
-                    "duration": 960
-                },
+                    }
+                }
+            }
+        },
+        "measure_tokens": [],
+        "clock": 12480
+    },
+    {
+        "trackbeats": {
+            "clean0": {
                 "15360": {
+                    "bfx": [
+                        {
+                            "token": "bfx:tempo_change:100",
+                            "params": []
+                        },
+                        {
+                            "token": "bfx:tempo_change:100",
+                            "params": []
+                        }
+                    ],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                },
+                "16320": {
                     "bfx": [],
                     "notes": [
                         {
-                            "token": "clean0:note:s2:f3",
-                            "nfx": []
+                            "token": "clean0:rest"
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
         "measure_tokens": [
-            "measure:repeat_open",
             "measure:repeat_close:1"
         ],
-        "clock": 12480
+        "clock": 15360
+    },
+    {
+        "trackbeats": {
+            "clean0": {
+                "18240": {
+                    "bfx": [],
+                    "notes": [
+                        {
+                            "token": "clean0:rest"
+                        }
+                    ],
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
+                }
+            }
+        },
+        "measure_tokens": [
+            "measure:repeat_alternative:2"
+        ],
+        "clock": 18240
     }
 ]

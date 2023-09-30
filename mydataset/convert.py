@@ -65,8 +65,8 @@ def translate_trackbeats(track, inst):
                             effects[string_number] = effect_list["bend"] + "3"
                     #trill
                     elif l.split(":")[1] == "trill":
-                        fret_distance = l.split(":")[2][4:]
-                        effects[string_number] = effect_list["trill"] + fret_distance
+                        fret_distance = int(l.split(":")[2][4:]) - fret_number
+                        effects[string_number] = effect_list["trill"] + str(fret_distance)
                     #other effects
                     else:
                         effects[string_number] = effect_list[l.split(":")[1]]
