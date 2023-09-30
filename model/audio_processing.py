@@ -76,43 +76,43 @@ class Processing:
         return self.filename
     
     def convert_position2index(self, position):
-        position_indies = []
+        position_indies = np.zeros(6)
         for string in position:
             if position[string] == "-":
-                position_indies.append(0)
+                position_indies[int(string) - 1] = 0
             else:
-                position_indies.append(int(position[string]) + 1)
+                position_indies[int(string) - 1] = int(position[string]) + 1
         return position_indies
     
     def convert_effect2index(self, effect):
-        effect_indies = []
+        effect_indies = np.zeros(6)
         for string in effect:
             if effect[string] == "-":
-                effect_indies.append(0)
+                effect_indies[int(string) - 1] = 0
             else:
-                effect_indies.append(self.effect_idx.index(effect[string]) + 1)
+                effect_indies[int(string) - 1] = self.effect_idx.index(effect[string]) + 1
         return effect_indies
     
     def convert_ties2index(self, ties):
-        ties_indies = []
+        ties_indies = np.zeros(6)
         for string in ties:
             if ties[string] == "-":
-                ties_indies.append(0)
+                ties_indies[int(string) - 1] = 0
             else:
-                ties_indies.append(1)
+                ties_indies[int(string) - 1] = 1
         return ties_indies
     
     def convert_duration2index(self, duration):
-        duration_indies = []
-        # duration index
-        duration_indies.append(duration["index"])
+        duration_indies = np.zeros(3)
+        # index
+        duration_indies[0] = duration["index"]
         # is dotted
         if duration["isDotted"]:
-            duration_indies.append(1)
+            duration_indies[1] = 1
         else:
-            duration_indies.append(0)
+            duration_indies[1] = 0
         # tuplet
-        duration_indies.append(duration["tuplet"]["enters"])
+        duration_indies[2] = duration["tuplet"]["enters"]
         return duration_indies
     
     def convert2index(self, tab, index_mode):
@@ -121,23 +121,23 @@ class Processing:
         ties_indies = self.convert_ties2index(tab["ties"])
         duration_indies = self.convert_duration2index(tab["duration"])
         if index_mode == "S&F":
-            output = [position_indies, effect_indies, ties_indies, duration_indies]
+            output = np.concatenate([position_indies, effect_indies, ties_indies, duration_indies])
         return output
     
     def load_and_save_tab_file(self):
         with open(self.tab_dir_path + self.filename + ".json", "r") as f:
             tab_json_data = json.load(f)
-        tempo = tab_json_data[0]["tempo"]
+        tempo = np.array([tab_json_data[0]["tempo"]])
         content = tab_json_data[1:]
         all_tab = []
         for tab in content:
             tab = self.convert2index(tab, index_mode="S&F")
             all_tab.append(tab)
-        output = [tempo, all_tab]
+        all_tab = np.array(all_tab)
         # save the data
         save_path = self.save_dir_path + "tab/"
-        np.save(save_path + self.filename + ".npz", output)
-        return output
+        np.savez(save_path + self.filename, tempo=tempo, tab=all_tab)
+        return all_tab
         
     def load_and_save_raw_audio_file(self):
         # load the data
@@ -155,7 +155,7 @@ class Processing:
             self.ax1.plot(data[2000000:2000100])
         # save the data
         save_path = self.save_dir_path + "raw_wave/"
-        np.savez(save_path + self.filename + ".npz", data=data)
+        np.save(save_path + self.filename, data)
         return data
     
     def stft(self, data):
@@ -168,7 +168,7 @@ class Processing:
             self.ax2.imshow(librosa.amplitude_to_db(data[:,:200], ref=np.max), cmap="jet")
         # save the data
         save_path = self.save_dir_path + "stft/"
-        np.savez(save_path + self.filename + ".npz", data=data)
+        np.save(save_path + self.filename, data)
         return data
     
     def melspectrogram(self, data):
@@ -180,7 +180,7 @@ class Processing:
             self.ax3.imshow(librosa.amplitude_to_db(data[:,:200], ref=np.max), cmap="jet")
         # save the data
         save_path = self.save_dir_path + "melspec/"
-        np.savez(save_path + self.filename + ".npz", data=data)
+        np.save(save_path + self.filename, data)
         return data
     
     def cqt(self, data):
@@ -193,7 +193,7 @@ class Processing:
             self.ax4.imshow(data[:,:200], cmap="jet")
         # save the data
         save_path = self.save_dir_path + "cqt/"
-        np.savez(save_path + self.filename + ".npz", data=data)
+        np.save(save_path + self.filename, data)
         return data
     
     def load_and_save_reprocessed_file(self, number):
