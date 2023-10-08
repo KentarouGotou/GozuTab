@@ -165,7 +165,7 @@ def main():
 ENCODE
 If you want to convert json file, please use this command:
     python convert.py encode [json file] [instrument] [output file]
-    ex) python convert.py labels/test2.json clean0 test2.json
+    ex) python convert.py encode labels/test2.json clean0 test2.json
     """
     assert len(sys.argv) >= 4, usage + "\nError: Not enough arguments."
     if sys.argv[1] == "encode":

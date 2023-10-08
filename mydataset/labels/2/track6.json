@@ -1,7 +1,7 @@
 [
     {
         "artist": "unknown",
-        "downtune": -12,
+        "downtune": 0,
         "tuning_types": {
             "0": "g6_standard"
         },
@@ -21,7 +21,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "1920": {
                     "bfx": [],
@@ -35,7 +43,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -53,7 +69,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "4800": {
                     "bfx": [],
@@ -71,7 +95,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -89,7 +121,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "7680": {
                     "bfx": [],
@@ -103,7 +143,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -133,7 +181,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -151,7 +207,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "13440": {
                     "bfx": [],
@@ -165,7 +229,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "14400": {
                     "bfx": [],
@@ -181,7 +253,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -203,7 +283,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "16320": {
                     "bfx": [],
@@ -217,7 +305,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "17280": {
                     "bfx": [],
@@ -233,7 +329,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -255,7 +359,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "19200": {
                     "bfx": [],
@@ -265,7 +377,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "20160": {
                     "bfx": [],
@@ -281,7 +401,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -303,7 +431,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "22080": {
                     "bfx": [],
@@ -313,7 +449,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "23040": {
                     "bfx": [],
@@ -329,7 +473,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -347,7 +499,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "24960": {
                     "bfx": [],
@@ -371,7 +531,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -389,7 +557,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "27840": {
                     "bfx": [],
@@ -407,7 +583,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -425,7 +609,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "30720": {
                     "bfx": [],
@@ -449,7 +641,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -467,7 +667,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "33600": {
                     "bfx": [],
@@ -485,7 +693,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -503,7 +719,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "36480": {
                     "bfx": [],
@@ -517,7 +741,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "37440": {
                     "bfx": [],
@@ -533,7 +765,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -555,7 +795,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "39360": {
                     "bfx": [],
@@ -569,7 +817,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "40320": {
                     "bfx": [],
@@ -585,7 +841,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -607,7 +871,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "42240": {
                     "bfx": [],
@@ -617,7 +889,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "43200": {
                     "bfx": [],
@@ -633,7 +913,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -655,7 +943,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "45120": {
                     "bfx": [],
@@ -665,7 +961,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "46080": {
                     "bfx": [],
@@ -681,7 +985,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -703,7 +1015,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "48000": {
                     "bfx": [],
@@ -713,7 +1033,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "48960": {
                     "bfx": [],
@@ -729,7 +1057,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -751,7 +1087,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "50880": {
                     "bfx": [],
@@ -761,7 +1105,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "51840": {
                     "bfx": [],
@@ -777,7 +1129,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -799,7 +1159,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "53760": {
                     "bfx": [],
@@ -809,7 +1177,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "54720": {
                     "bfx": [],
@@ -819,7 +1195,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -843,7 +1227,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "56640": {
                     "bfx": [],
@@ -853,7 +1245,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "57600": {
                     "bfx": [],
@@ -863,7 +1263,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -883,7 +1291,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "59520": {
                     "bfx": [],
@@ -914,7 +1330,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -936,7 +1360,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "62400": {
                     "bfx": [],
@@ -950,7 +1382,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "63360": {
                     "bfx": [],
@@ -966,7 +1406,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -988,7 +1436,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "65280": {
                     "bfx": [],
@@ -1002,7 +1458,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "66240": {
                     "bfx": [],
@@ -1018,7 +1482,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1040,7 +1512,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "68160": {
                     "bfx": [],
@@ -1054,7 +1534,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "69120": {
                     "bfx": [],
@@ -1064,7 +1552,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1086,7 +1582,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "71040": {
                     "bfx": [],
@@ -1096,7 +1600,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "72000": {
                     "bfx": [],
@@ -1112,7 +1624,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1132,7 +1652,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "73920": {
                     "bfx": [],
@@ -1150,7 +1678,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "74880": {
                     "bfx": [],
@@ -1178,7 +1714,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1200,7 +1744,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "76800": {
                     "bfx": [],
@@ -1218,7 +1770,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "77760": {
                     "bfx": [],
@@ -1240,7 +1800,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1262,7 +1830,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "79680": {
                     "bfx": [],
@@ -1276,7 +1852,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "80640": {
                     "bfx": [],
@@ -1286,7 +1870,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1308,7 +1900,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "82560": {
                     "bfx": [],
@@ -1322,7 +1922,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "83520": {
                     "bfx": [],
@@ -1338,7 +1946,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1360,7 +1976,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "85440": {
                     "bfx": [],
@@ -1370,7 +1994,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "86400": {
                     "bfx": [],
@@ -1380,7 +2012,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1400,7 +2040,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "88320": {
                     "bfx": [],
@@ -1418,7 +2066,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "89280": {
                     "bfx": [],
@@ -1446,7 +2102,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1468,7 +2132,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "91200": {
                     "bfx": [],
@@ -1478,7 +2150,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "92160": {
                     "bfx": [],
@@ -1494,7 +2174,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1516,7 +2204,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "94080": {
                     "bfx": [],
@@ -1526,7 +2222,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "95040": {
                     "bfx": [],
@@ -1542,7 +2246,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1564,7 +2276,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "96960": {
                     "bfx": [],
@@ -1578,7 +2298,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "97920": {
                     "bfx": [],
@@ -1592,7 +2320,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1614,7 +2350,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "99840": {
                     "bfx": [],
@@ -1628,7 +2372,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "100800": {
                     "bfx": [],
@@ -1638,7 +2390,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1660,7 +2420,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "102240": {
                     "bfx": [],
@@ -1670,7 +2438,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "102720": {
                     "bfx": [],
@@ -1686,7 +2462,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "103680": {
                     "bfx": [],
@@ -1702,7 +2486,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1724,7 +2516,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "105600": {
                     "bfx": [],
@@ -1738,7 +2538,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "106560": {
                     "bfx": [],
@@ -1752,7 +2560,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1774,7 +2590,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1808,7 +2632,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1826,7 +2658,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "114240": {
                     "bfx": [],
@@ -1840,7 +2680,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1858,7 +2706,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "117120": {
                     "bfx": [],
@@ -1876,7 +2732,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1894,7 +2758,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "120000": {
                     "bfx": [],
@@ -1908,7 +2780,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1938,7 +2818,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1956,7 +2844,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "125760": {
                     "bfx": [],
@@ -1970,7 +2866,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "126720": {
                     "bfx": [],
@@ -1986,7 +2890,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2008,7 +2920,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "128640": {
                     "bfx": [],
@@ -2022,7 +2942,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "129600": {
                     "bfx": [],
@@ -2038,7 +2966,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2060,7 +2996,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "131520": {
                     "bfx": [],
@@ -2070,7 +3014,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "132480": {
                     "bfx": [],
@@ -2086,7 +3038,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2108,7 +3068,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "134400": {
                     "bfx": [],
@@ -2118,7 +3086,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "135360": {
                     "bfx": [],
@@ -2134,7 +3110,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2152,7 +3136,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "137280": {
                     "bfx": [],
@@ -2176,7 +3168,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2194,7 +3194,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "140160": {
                     "bfx": [],
@@ -2212,7 +3220,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2230,7 +3246,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "143040": {
                     "bfx": [],
@@ -2254,7 +3278,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2292,7 +3324,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },

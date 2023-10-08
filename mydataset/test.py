@@ -2065,7 +2065,7 @@ def main():
 ENCODE (guitar pro --> json)
     If you want to convert a specific file
         python dadagp.py encode input.gp5 output.json [artist_name]
-        ex) python dadagp.py encode tab/track1.gp5 labels/track1.json unknown
+        ex) python dadagp.py encode gp5_files/1/track1.gp5 labels/track1.json unknown
 
 DECODE (tokens --> guitar pro)
     If you want to convert a specific file

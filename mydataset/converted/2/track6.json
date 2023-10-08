@@ -1,7 +1,7 @@
 [
     {
         "artist": "unknown",
-        "downtune": -12,
+        "downtune": 0,
         "tuning_types": {
             "0": "g6_standard"
         },
@@ -35,7 +35,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -62,7 +70,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -89,7 +105,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -116,7 +140,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -143,7 +175,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -170,7 +210,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -197,7 +245,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 2880
+        "duration": {
+            "time": 2880,
+            "index": 1,
+            "isDotted": true,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -224,7 +280,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -251,7 +315,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -278,7 +350,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -305,7 +385,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -332,7 +420,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -359,7 +455,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -386,7 +490,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -413,7 +525,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -440,7 +560,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -467,7 +595,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -494,7 +630,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -521,7 +665,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -548,7 +700,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -575,7 +735,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -602,7 +770,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -629,7 +805,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -656,7 +840,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -683,7 +875,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -710,7 +910,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -737,7 +945,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -764,7 +980,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -791,7 +1015,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -818,7 +1050,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -845,7 +1085,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -872,7 +1120,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -899,7 +1155,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -926,7 +1190,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -953,7 +1225,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -980,7 +1260,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1007,7 +1295,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1034,7 +1330,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1061,7 +1365,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1088,7 +1400,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1115,7 +1435,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1142,7 +1470,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1169,7 +1505,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1196,7 +1540,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1223,7 +1575,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1250,7 +1610,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1277,7 +1645,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1304,7 +1680,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1331,7 +1715,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1358,7 +1750,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1385,7 +1785,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1412,7 +1820,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1439,7 +1855,15 @@
             "5": "-",
             "6": "t"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1466,7 +1890,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1493,7 +1925,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1520,7 +1960,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1547,7 +1995,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1574,7 +2030,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1601,7 +2065,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1628,7 +2100,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1655,7 +2135,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1682,7 +2170,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1709,7 +2205,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1736,7 +2240,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1763,7 +2275,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1790,7 +2310,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1817,7 +2345,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1844,7 +2380,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1871,7 +2415,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1898,7 +2450,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1925,7 +2485,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1952,7 +2520,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -1979,7 +2555,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2006,7 +2590,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2033,7 +2625,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2060,7 +2660,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2087,7 +2695,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2114,7 +2730,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2141,7 +2765,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2168,7 +2800,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2195,7 +2835,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2222,7 +2870,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2249,7 +2905,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2276,7 +2940,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2303,7 +2975,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2330,7 +3010,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2357,7 +3045,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2384,7 +3080,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2411,7 +3115,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2438,7 +3150,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2465,7 +3185,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2492,7 +3220,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2519,7 +3255,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2546,7 +3290,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2573,7 +3325,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2600,7 +3360,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 480
+        "duration": {
+            "time": 480,
+            "index": 3,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2627,7 +3395,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 480
+        "duration": {
+            "time": 480,
+            "index": 3,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2654,7 +3430,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2681,7 +3465,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2708,7 +3500,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2735,7 +3535,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2762,7 +3570,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2789,7 +3605,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 2880
+        "duration": {
+            "time": 2880,
+            "index": 1,
+            "isDotted": true,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2816,7 +3640,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 2880
+        "duration": {
+            "time": 2880,
+            "index": 1,
+            "isDotted": true,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2843,7 +3675,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2870,7 +3710,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2897,7 +3745,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2924,7 +3780,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2951,7 +3815,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -2978,7 +3850,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3005,7 +3885,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 2880
+        "duration": {
+            "time": 2880,
+            "index": 1,
+            "isDotted": true,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3032,7 +3920,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3059,7 +3955,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3086,7 +3990,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3113,7 +4025,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3140,7 +4060,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3167,7 +4095,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3194,7 +4130,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3221,7 +4165,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3248,7 +4200,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3275,7 +4235,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3302,7 +4270,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3329,7 +4305,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3356,7 +4340,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3383,7 +4375,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3410,7 +4410,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3437,7 +4445,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3464,7 +4480,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 960
+        "duration": {
+            "time": 960,
+            "index": 2,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3491,7 +4515,15 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 1920
+        "duration": {
+            "time": 1920,
+            "index": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     },
     {
         "position": {
@@ -3518,6 +4550,14 @@
             "5": "-",
             "6": "-"
         },
-        "duration": 2880
+        "duration": {
+            "time": 2880,
+            "index": 1,
+            "isDotted": true,
+            "tuplet": {
+                "enters": 1,
+                "times": 1
+            }
+        }
     }
 ]

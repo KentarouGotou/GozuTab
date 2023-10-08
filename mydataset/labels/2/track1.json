@@ -1,7 +1,7 @@
 [
     {
         "artist": "unknown",
-        "downtune": -12,
+        "downtune": 0,
         "tuning_types": {
             "0": "g6_standard"
         },
@@ -41,7 +41,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1440
+                    "duration": {
+                        "time": 1440,
+                        "index": 2,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "2400": {
                     "bfx": [],
@@ -51,7 +59,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "2880": {
                     "bfx": [],
@@ -63,7 +79,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "3360": {
                     "bfx": [],
@@ -73,7 +97,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "3840": {
                     "bfx": [],
@@ -107,7 +139,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -125,7 +165,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "5280": {
                     "bfx": [],
@@ -141,7 +189,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "5760": {
                     "bfx": [],
@@ -157,7 +213,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "6240": {
                     "bfx": [],
@@ -169,7 +233,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "6720": {
                     "bfx": [],
@@ -181,7 +253,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "7200": {
                     "bfx": [],
@@ -191,7 +271,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "7680": {
                     "bfx": [],
@@ -203,7 +291,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -225,7 +321,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "10560": {
                     "bfx": [],
@@ -235,7 +339,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "11520": {
                     "bfx": [],
@@ -249,7 +361,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -277,7 +397,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "13440": {
                     "bfx": [],
@@ -287,7 +415,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "14400": {
                     "bfx": [],
@@ -307,7 +443,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -345,7 +489,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1440
+                    "duration": {
+                        "time": 1440,
+                        "index": 2,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "17760": {
                     "bfx": [],
@@ -355,7 +507,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "18240": {
                     "bfx": [],
@@ -367,7 +527,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "18720": {
                     "bfx": [],
@@ -377,7 +545,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "19200": {
                     "bfx": [],
@@ -411,7 +587,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -429,7 +613,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "20640": {
                     "bfx": [],
@@ -445,7 +637,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "21120": {
                     "bfx": [],
@@ -461,7 +661,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "21600": {
                     "bfx": [],
@@ -473,7 +681,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "22080": {
                     "bfx": [],
@@ -485,7 +701,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "22560": {
                     "bfx": [],
@@ -495,7 +719,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "23040": {
                     "bfx": [],
@@ -507,7 +739,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -529,7 +769,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "25920": {
                     "bfx": [],
@@ -539,7 +787,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "26880": {
                     "bfx": [],
@@ -553,7 +809,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -581,7 +845,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "28800": {
                     "bfx": [],
@@ -591,7 +863,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "29760": {
                     "bfx": [],
@@ -611,7 +891,15 @@
                             ]
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -649,7 +937,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1440
+                    "duration": {
+                        "time": 1440,
+                        "index": 2,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "33120": {
                     "bfx": [],
@@ -689,7 +985,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "33600": {
                     "bfx": [],
@@ -701,7 +1005,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "34080": {
                     "bfx": [],
@@ -711,7 +1023,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "34560": {
                     "bfx": [],
@@ -725,7 +1045,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -743,7 +1071,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "36480": {
                     "bfx": [],
@@ -753,7 +1089,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -775,7 +1119,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "41280": {
                     "bfx": [],
@@ -785,7 +1137,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "42240": {
                     "bfx": [],
@@ -799,7 +1159,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -821,7 +1189,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "44160": {
                     "bfx": [],
@@ -843,7 +1219,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "45120": {
                     "bfx": [],
@@ -857,7 +1241,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -887,7 +1279,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "48000": {
                     "bfx": [],
@@ -899,7 +1299,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "48480": {
                     "bfx": [],
@@ -911,7 +1319,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "48960": {
                     "bfx": [],
@@ -935,7 +1351,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "49440": {
                     "bfx": [],
@@ -945,7 +1369,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "49920": {
                     "bfx": [],
@@ -955,7 +1387,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "50400": {
                     "bfx": [],
@@ -985,7 +1425,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1015,7 +1463,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "51840": {
                     "bfx": [],
@@ -1029,7 +1485,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "52800": {
                     "bfx": [],
@@ -1039,7 +1503,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "53280": {
                     "bfx": [],
@@ -1049,7 +1521,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "53760": {
                     "bfx": [],
@@ -1059,7 +1539,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1085,7 +1573,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "55680": {
                     "bfx": [],
@@ -1095,7 +1591,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "56160": {
                     "bfx": [],
@@ -1105,7 +1609,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "56640": {
                     "bfx": [],
@@ -1115,7 +1627,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "57120": {
                     "bfx": [],
@@ -1125,7 +1645,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "58080": {
                     "bfx": [],
@@ -1137,7 +1665,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "58320": {
                     "bfx": [],
@@ -1147,7 +1683,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1173,7 +1717,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "59040": {
                     "bfx": [],
@@ -1183,7 +1735,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "59520": {
                     "bfx": [],
@@ -1193,7 +1753,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "60000": {
                     "bfx": [],
@@ -1205,7 +1773,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "60480": {
                     "bfx": [],
@@ -1215,7 +1791,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1241,7 +1825,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "63360": {
                     "bfx": [],
@@ -1251,7 +1843,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "63840": {
                     "bfx": [],
@@ -1261,7 +1861,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "64320": {
                     "bfx": [],
@@ -1283,7 +1891,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "65280": {
                     "bfx": [],
@@ -1293,7 +1909,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1311,7 +1935,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "66720": {
                     "bfx": [],
@@ -1321,7 +1953,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "67200": {
                     "bfx": [],
@@ -1331,7 +1971,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "67680": {
                     "bfx": [],
@@ -1343,7 +1991,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "68160": {
                     "bfx": [],
@@ -1353,7 +2009,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "69120": {
                     "bfx": [],
@@ -1363,7 +2027,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "69600": {
                     "bfx": [],
@@ -1373,7 +2045,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1395,7 +2075,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "70560": {
                     "bfx": [],
@@ -1409,7 +2097,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "71040": {
                     "bfx": [],
@@ -1423,7 +2119,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "72000": {
                     "bfx": [],
@@ -1437,7 +2141,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "72960": {
                     "bfx": [],
@@ -1447,7 +2159,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1471,7 +2191,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "74880": {
                     "bfx": [],
@@ -1481,7 +2209,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "75840": {
                     "bfx": [],
@@ -1491,7 +2227,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1529,7 +2273,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1440
+                    "duration": {
+                        "time": 1440,
+                        "index": 2,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "79200": {
                     "bfx": [],
@@ -1569,7 +2321,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "79680": {
                     "bfx": [],
@@ -1581,7 +2341,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "80160": {
                     "bfx": [],
@@ -1591,7 +2359,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "80640": {
                     "bfx": [],
@@ -1605,7 +2381,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1623,7 +2407,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "82560": {
                     "bfx": [],
@@ -1633,7 +2425,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 2880
+                    "duration": {
+                        "time": 2880,
+                        "index": 1,
+                        "isDotted": true,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1655,7 +2455,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "87360": {
                     "bfx": [],
@@ -1665,7 +2473,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "88320": {
                     "bfx": [],
@@ -1679,7 +2495,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1701,7 +2525,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "90240": {
                     "bfx": [],
@@ -1723,7 +2555,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "91200": {
                     "bfx": [],
@@ -1737,7 +2577,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1767,7 +2615,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "94080": {
                     "bfx": [],
@@ -1779,7 +2635,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "94560": {
                     "bfx": [],
@@ -1791,7 +2655,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "95040": {
                     "bfx": [],
@@ -1815,7 +2687,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "95520": {
                     "bfx": [],
@@ -1825,7 +2705,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "96000": {
                     "bfx": [],
@@ -1835,7 +2723,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "96480": {
                     "bfx": [],
@@ -1865,7 +2761,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1895,7 +2799,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "97920": {
                     "bfx": [],
@@ -1909,7 +2821,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "98880": {
                     "bfx": [],
@@ -1919,7 +2839,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "99360": {
                     "bfx": [],
@@ -1929,7 +2857,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "99840": {
                     "bfx": [],
@@ -1939,7 +2875,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -1965,7 +2909,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "101760": {
                     "bfx": [],
@@ -1975,7 +2927,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "102240": {
                     "bfx": [],
@@ -1985,7 +2945,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "102720": {
                     "bfx": [],
@@ -1995,7 +2963,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "103200": {
                     "bfx": [],
@@ -2005,7 +2981,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "104160": {
                     "bfx": [],
@@ -2017,7 +3001,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "104400": {
                     "bfx": [],
@@ -2027,7 +3019,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2053,7 +3053,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "105120": {
                     "bfx": [],
@@ -2063,7 +3071,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "105600": {
                     "bfx": [],
@@ -2073,7 +3089,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "106080": {
                     "bfx": [],
@@ -2085,7 +3109,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "106560": {
                     "bfx": [],
@@ -2095,7 +3127,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2121,7 +3161,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "109440": {
                     "bfx": [],
@@ -2131,7 +3179,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "109920": {
                     "bfx": [],
@@ -2141,7 +3197,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "110400": {
                     "bfx": [],
@@ -2163,7 +3227,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "111360": {
                     "bfx": [],
@@ -2173,7 +3245,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2191,7 +3271,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "112800": {
                     "bfx": [],
@@ -2201,7 +3289,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "113280": {
                     "bfx": [],
@@ -2211,7 +3307,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "113760": {
                     "bfx": [],
@@ -2223,7 +3327,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "114240": {
                     "bfx": [],
@@ -2233,7 +3345,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "115200": {
                     "bfx": [],
@@ -2243,7 +3363,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "115680": {
                     "bfx": [],
@@ -2253,7 +3381,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2275,7 +3411,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "116640": {
                     "bfx": [],
@@ -2289,7 +3433,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "117120": {
                     "bfx": [],
@@ -2303,7 +3455,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "118080": {
                     "bfx": [],
@@ -2317,7 +3477,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "119040": {
                     "bfx": [],
@@ -2327,7 +3495,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2351,7 +3527,15 @@
                             ]
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "120960": {
                     "bfx": [],
@@ -2361,7 +3545,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 960
+                    "duration": {
+                        "time": 960,
+                        "index": 2,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "121920": {
                     "bfx": [],
@@ -2371,7 +3563,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 1920
+                    "duration": {
+                        "time": 1920,
+                        "index": 1,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2393,7 +3593,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "124080": {
                     "bfx": [],
@@ -2403,7 +3611,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "124560": {
                     "bfx": [],
@@ -2413,7 +3629,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "124800": {
                     "bfx": [],
@@ -2425,7 +3649,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "125040": {
                     "bfx": [],
@@ -2441,7 +3673,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "125280": {
                     "bfx": [],
@@ -2455,7 +3695,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "125760": {
                     "bfx": [],
@@ -2469,7 +3717,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "126240": {
                     "bfx": [],
@@ -2483,7 +3739,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2505,7 +3769,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "126960": {
                     "bfx": [],
@@ -2515,7 +3787,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "127440": {
                     "bfx": [],
@@ -2525,7 +3805,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "127680": {
                     "bfx": [],
@@ -2537,7 +3825,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "127920": {
                     "bfx": [],
@@ -2553,7 +3849,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "128160": {
                     "bfx": [],
@@ -2571,7 +3875,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "128640": {
                     "bfx": [],
@@ -2581,7 +3893,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "129120": {
                     "bfx": [],
@@ -2603,7 +3923,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2625,7 +3953,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "129840": {
                     "bfx": [],
@@ -2635,7 +3971,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "130320": {
                     "bfx": [],
@@ -2645,7 +3989,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "130560": {
                     "bfx": [],
@@ -2657,7 +4009,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "130800": {
                     "bfx": [],
@@ -2673,7 +4033,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "131040": {
                     "bfx": [],
@@ -2687,7 +4055,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "131520": {
                     "bfx": [],
@@ -2701,7 +4077,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "132000": {
                     "bfx": [],
@@ -2715,7 +4099,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2739,7 +4131,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "132960": {
                     "bfx": [],
@@ -2749,7 +4149,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "133440": {
                     "bfx": [],
@@ -2759,7 +4167,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "133920": {
                     "bfx": [],
@@ -2771,7 +4187,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "134400": {
                     "bfx": [],
@@ -2781,7 +4205,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "134880": {
                     "bfx": [],
@@ -2797,7 +4229,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2823,7 +4263,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "135600": {
                     "bfx": [],
@@ -2833,7 +4281,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "136080": {
                     "bfx": [],
@@ -2843,7 +4299,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "136320": {
                     "bfx": [],
@@ -2855,7 +4319,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "136560": {
                     "bfx": [],
@@ -2871,7 +4343,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "136800": {
                     "bfx": [],
@@ -2885,7 +4365,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "137280": {
                     "bfx": [],
@@ -2899,7 +4387,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "137760": {
                     "bfx": [],
@@ -2913,7 +4409,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -2939,7 +4443,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "138480": {
                     "bfx": [],
@@ -2949,7 +4461,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "138960": {
                     "bfx": [],
@@ -2959,7 +4479,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "139200": {
                     "bfx": [],
@@ -2971,7 +4499,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "139440": {
                     "bfx": [],
@@ -2987,7 +4523,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "139680": {
                     "bfx": [],
@@ -3001,7 +4545,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "140160": {
                     "bfx": [],
@@ -3011,7 +4563,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "140640": {
                     "bfx": [],
@@ -3021,7 +4581,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3047,7 +4615,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "141360": {
                     "bfx": [],
@@ -3057,7 +4633,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "141840": {
                     "bfx": [],
@@ -3067,7 +4651,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "142080": {
                     "bfx": [],
@@ -3079,7 +4671,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "142320": {
                     "bfx": [],
@@ -3095,7 +4695,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "142560": {
                     "bfx": [],
@@ -3109,7 +4717,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "143040": {
                     "bfx": [],
@@ -3123,7 +4739,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "143520": {
                     "bfx": [],
@@ -3137,7 +4761,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3157,7 +4789,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "144240": {
                     "bfx": [],
@@ -3167,7 +4807,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "144480": {
                     "bfx": [],
@@ -3177,7 +4825,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "144720": {
                     "bfx": [],
@@ -3189,7 +4845,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "144960": {
                     "bfx": [],
@@ -3199,7 +4863,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "145200": {
                     "bfx": [],
@@ -3209,7 +4881,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "145440": {
                     "bfx": [],
@@ -3221,7 +4901,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "145680": {
                     "bfx": [],
@@ -3231,7 +4919,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "145920": {
                     "bfx": [],
@@ -3241,7 +4937,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "146160": {
                     "bfx": [],
@@ -3253,7 +4957,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "146400": {
                     "bfx": [],
@@ -3263,7 +4975,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "146640": {
                     "bfx": [],
@@ -3273,7 +4993,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3299,7 +5027,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "147120": {
                     "bfx": [],
@@ -3309,7 +5045,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "147600": {
                     "bfx": [],
@@ -3319,7 +5063,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "147840": {
                     "bfx": [],
@@ -3331,7 +5083,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "148080": {
                     "bfx": [],
@@ -3347,7 +5107,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "148320": {
                     "bfx": [],
@@ -3361,7 +5129,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "148800": {
                     "bfx": [],
@@ -3375,7 +5151,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "149280": {
                     "bfx": [],
@@ -3389,7 +5173,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3415,7 +5207,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "150000": {
                     "bfx": [],
@@ -3425,7 +5225,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "150480": {
                     "bfx": [],
@@ -3435,7 +5243,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "150720": {
                     "bfx": [],
@@ -3447,7 +5263,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "150960": {
                     "bfx": [],
@@ -3463,7 +5287,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "151200": {
                     "bfx": [],
@@ -3477,7 +5309,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "151680": {
                     "bfx": [],
@@ -3487,7 +5327,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "152160": {
                     "bfx": [],
@@ -3497,7 +5345,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3523,7 +5379,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "152880": {
                     "bfx": [],
@@ -3533,7 +5397,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "153360": {
                     "bfx": [],
@@ -3543,7 +5415,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "153600": {
                     "bfx": [],
@@ -3555,7 +5435,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "153840": {
                     "bfx": [],
@@ -3571,7 +5459,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "154080": {
                     "bfx": [],
@@ -3585,7 +5481,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "154560": {
                     "bfx": [],
@@ -3599,7 +5503,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "155040": {
                     "bfx": [],
@@ -3613,7 +5525,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3633,7 +5553,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "155760": {
                     "bfx": [],
@@ -3643,7 +5571,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "156000": {
                     "bfx": [],
@@ -3653,7 +5589,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "156240": {
                     "bfx": [],
@@ -3665,7 +5609,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "156480": {
                     "bfx": [],
@@ -3675,7 +5627,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "156720": {
                     "bfx": [],
@@ -3685,7 +5645,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "156960": {
                     "bfx": [],
@@ -3697,7 +5665,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "157200": {
                     "bfx": [],
@@ -3707,7 +5683,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "157440": {
                     "bfx": [],
@@ -3717,7 +5701,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "157680": {
                     "bfx": [],
@@ -3729,7 +5721,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "157920": {
                     "bfx": [],
@@ -3739,7 +5739,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "158160": {
                     "bfx": [],
@@ -3749,7 +5757,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3767,7 +5783,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "158640": {
                     "bfx": [],
@@ -3777,7 +5801,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "159120": {
                     "bfx": [],
@@ -3789,7 +5821,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "159360": {
                     "bfx": [],
@@ -3805,7 +5845,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "159840": {
                     "bfx": [],
@@ -3815,7 +5863,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "160080": {
                     "bfx": [],
@@ -3825,7 +5881,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "160560": {
                     "bfx": [],
@@ -3837,7 +5901,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "160800": {
                     "bfx": [],
@@ -3853,7 +5925,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3871,7 +5951,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "161520": {
                     "bfx": [],
@@ -3881,7 +5969,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "162000": {
                     "bfx": [],
@@ -3893,7 +5989,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "162240": {
                     "bfx": [],
@@ -3909,7 +6013,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "162720": {
                     "bfx": [],
@@ -3919,7 +6031,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "163200": {
                     "bfx": [],
@@ -3929,7 +6049,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "163680": {
                     "bfx": [],
@@ -3939,7 +6067,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -3957,7 +6093,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "164400": {
                     "bfx": [],
@@ -3967,7 +6111,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "164880": {
                     "bfx": [],
@@ -3979,7 +6131,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "165120": {
                     "bfx": [],
@@ -3995,7 +6155,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "165600": {
                     "bfx": [],
@@ -4005,7 +6173,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "165840": {
                     "bfx": [],
@@ -4015,7 +6191,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "166320": {
                     "bfx": [],
@@ -4027,7 +6211,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "166560": {
                     "bfx": [],
@@ -4043,7 +6235,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4061,7 +6261,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "167280": {
                     "bfx": [],
@@ -4071,7 +6279,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "167760": {
                     "bfx": [],
@@ -4083,7 +6299,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "168000": {
                     "bfx": [],
@@ -4099,7 +6323,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "168480": {
                     "bfx": [],
@@ -4109,7 +6341,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "168960": {
                     "bfx": [],
@@ -4119,7 +6359,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "169440": {
                     "bfx": [],
@@ -4129,7 +6377,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4151,7 +6407,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "170160": {
                     "bfx": [],
@@ -4161,7 +6425,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "170640": {
                     "bfx": [],
@@ -4173,7 +6445,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "170880": {
                     "bfx": [],
@@ -4189,7 +6469,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "171360": {
                     "bfx": [],
@@ -4199,7 +6487,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "171600": {
                     "bfx": [],
@@ -4209,7 +6505,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "172080": {
                     "bfx": [],
@@ -4221,7 +6525,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "172320": {
                     "bfx": [],
@@ -4237,7 +6549,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4255,7 +6575,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "173040": {
                     "bfx": [],
@@ -4265,7 +6593,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "173520": {
                     "bfx": [],
@@ -4277,7 +6613,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "173760": {
                     "bfx": [],
@@ -4293,7 +6637,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "174240": {
                     "bfx": [],
@@ -4303,7 +6655,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "174720": {
                     "bfx": [],
@@ -4313,7 +6673,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "175200": {
                     "bfx": [],
@@ -4323,7 +6691,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4341,7 +6717,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "175920": {
                     "bfx": [],
@@ -4351,7 +6735,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "176400": {
                     "bfx": [],
@@ -4363,7 +6755,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "176640": {
                     "bfx": [],
@@ -4379,7 +6779,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "177120": {
                     "bfx": [],
@@ -4389,7 +6797,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "177360": {
                     "bfx": [],
@@ -4399,7 +6815,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "177840": {
                     "bfx": [],
@@ -4411,7 +6835,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "178080": {
                     "bfx": [],
@@ -4427,7 +6859,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4445,7 +6885,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "178800": {
                     "bfx": [],
@@ -4455,7 +6903,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "179280": {
                     "bfx": [],
@@ -4467,7 +6923,15 @@
                             ]
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "179520": {
                     "bfx": [],
@@ -4483,7 +6947,15 @@
                             ]
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "180000": {
                     "bfx": [],
@@ -4493,7 +6965,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "180480": {
                     "bfx": [],
@@ -4503,7 +6983,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "180960": {
                     "bfx": [],
@@ -4513,7 +7001,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 480
+                    "duration": {
+                        "time": 480,
+                        "index": 3,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4531,7 +7027,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "181680": {
                     "bfx": [],
@@ -4541,7 +7045,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "181920": {
                     "bfx": [],
@@ -4551,7 +7063,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "182160": {
                     "bfx": [],
@@ -4561,7 +7081,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "182400": {
                     "bfx": [],
@@ -4571,7 +7099,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "182640": {
                     "bfx": [],
@@ -4581,7 +7117,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "182880": {
                     "bfx": [],
@@ -4591,7 +7135,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "183120": {
                     "bfx": [],
@@ -4601,7 +7153,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "183360": {
                     "bfx": [],
@@ -4611,7 +7171,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "183600": {
                     "bfx": [],
@@ -4621,7 +7189,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "183840": {
                     "bfx": [],
@@ -4631,7 +7207,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "184080": {
                     "bfx": [],
@@ -4641,7 +7225,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "184320": {
                     "bfx": [],
@@ -4651,7 +7243,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 160
+                    "duration": {
+                        "time": 160,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 3,
+                            "times": 2
+                        }
+                    }
                 },
                 "184480": {
                     "bfx": [],
@@ -4661,7 +7261,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 160
+                    "duration": {
+                        "time": 160,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 3,
+                            "times": 2
+                        }
+                    }
                 },
                 "184640": {
                     "bfx": [],
@@ -4671,7 +7279,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 160
+                    "duration": {
+                        "time": 160,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 3,
+                            "times": 2
+                        }
+                    }
                 },
                 "184800": {
                     "bfx": [],
@@ -4681,7 +7297,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "185040": {
                     "bfx": [],
@@ -4691,7 +7315,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },
@@ -4709,7 +7341,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "185520": {
                     "bfx": [],
@@ -4719,7 +7359,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "185760": {
                     "bfx": [],
@@ -4729,7 +7377,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "186000": {
                     "bfx": [],
@@ -4739,7 +7395,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "186240": {
                     "bfx": [],
@@ -4749,7 +7413,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "186480": {
                     "bfx": [],
@@ -4763,7 +7435,15 @@
                             "nfx": []
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "186720": {
                     "bfx": [],
@@ -4772,7 +7452,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "186960": {
                     "bfx": [],
@@ -4781,7 +7469,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "187200": {
                     "bfx": [],
@@ -4790,7 +7486,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "187440": {
                     "bfx": [],
@@ -4799,7 +7503,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "187680": {
                     "bfx": [],
@@ -4808,7 +7520,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "187920": {
                     "bfx": [],
@@ -4817,7 +7537,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "188160": {
                     "bfx": [],
@@ -4826,7 +7554,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "188400": {
                     "bfx": [],
@@ -4835,7 +7571,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "188640": {
                     "bfx": [],
@@ -4844,7 +7588,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 },
                 "188880": {
                     "bfx": [],
@@ -4853,7 +7605,15 @@
                             "token": "clean0:rest"
                         }
                     ],
-                    "duration": 240
+                    "duration": {
+                        "time": 240,
+                        "index": 4,
+                        "isDotted": false,
+                        "tuplet": {
+                            "enters": 1,
+                            "times": 1
+                        }
+                    }
                 }
             }
         },

@@ -1,51 +1,71 @@
 import torch.utils.data as data
 import os
 import numpy as np
-from torchvision import transforms
+import matplotlib.pyplot as plt
 
-class Mydataset(data.Dataset):
-    def __init__(self, dataset_path="../mydataset", transform=None, context_window_size=9):
-        self.dataset_path = dataset_path
-        self.audio_folder_path = self.dataset_path + "/wav_files"
-        self.tab_folder_path = self.dataset_path + "/convetab_files"
-        self.transform = transform
-        self.context_window_size = context_window_size
-        self.halfwin = context_window_size // 2
-
-    def __getitem__(self, index):
-        path = self.data_paths[index]
-
-        #load data
-        data = np.load(path, allow_pickle=True)
-        loaded_audio = data["audio"]
-        loaded_label = data["tab"]
-
-        #generate data
-        audio = []
-        full_audio = np.pad(loaded_audio, [(self.halfwin, self.halfwin), (0,0)], "constant")
-        for i in range(len(loaded_audio)):
-            sample_audio = full_audio[i:i+self.context_window_size]
-            sample_audio = np.expand_dims(np.swapaxes(sample_audio, 0, 1), -1)
-            audio.append(sample_audio)
-        audio = np.array(audio)
-        label = loaded_label
+class Dataset(data.Dataset):
+    def __init__(self, data_dir_path="preprocessed/", mode="cqt", context_window=9, plot=False):
+        self.data_dir_path = data_dir_path
+        self.mode = mode
+        self.context_window = context_window
+        self.half_context_window = int(self.context_window / 2)
+        self.plot = plot
         
-        full_audio = np.expand_dims(loaded_audio, -1)
+        # data paths
+        self.tab_data_paths = self.get_tab_data_paths()
+        self.audio_data_paths = self.get_audio_data_paths()
         
-        return full_audio, label
-
-    def _get_data_paths(self, data_folder_path):
-        #get all data paths
+        # full audio length
+        if self.mode == "raw_wave":
+            self.full_audio_length = 5000000
+        else:
+            self.full_audio_length = 8000
+        
+    def get_tab_data_paths(self):
         data_paths = []
-        for file in os.listdir(data_folder_path):
-            data_paths.append(os.path.join(data_folder_path, file))
+        tab_dir_path = os.path.join(self.data_dir_path, "tab")
+        for file in os.listdir(tab_dir_path):
+            data_paths.append(os.path.join(tab_dir_path, file))
         return data_paths
-
+    
+    def get_audio_data_paths(self):
+        data_paths = []
+        audio_dir_path = os.path.join(self.data_dir_path, self.mode)
+        for file in os.listdir(audio_dir_path):
+            data_paths.append(os.path.join(audio_dir_path, file))
+        return data_paths
+    
     def __len__(self):
-        return len(self.data_paths)
-
-#make transform
-transform = transforms.Compose([
-    transforms.ToTensor()
-])
-
+        return len(self.tab_data_paths)
+    
+    def __getitem__(self, index):
+        # data path
+        tab_data_path = self.tab_data_paths[index]
+        audio_data_path = self.audio_data_paths[index]
+        # load data
+        loaded_tab_data = np.load(tab_data_path)
+        tempo = loaded_tab_data["tempo"]
+        tab_data = loaded_tab_data["tab"]
+        loaded_audio_data = np.load(audio_data_path)
+        
+        # generate audio data
+        audio_data = np.empty((self.full_audio_length, loaded_audio_data.shape[0], self.context_window))
+        # padding
+        full_audio_data = np.pad(loaded_audio_data, ((0, 0), (0, self.full_audio_length - loaded_audio_data.shape[1])))
+        padd_audio_data = np.pad(full_audio_data, ((0, 0), (self.half_context_window, self.half_context_window)))
+        # insert
+        for i in range(self.full_audio_length):
+            audio_data[i] = padd_audio_data[:, i:i+self.context_window]
+        # expand dim
+        audio_data = np.expand_dims(audio_data, -1)
+        
+        # plot
+        print(tab_data.shape, audio_data.shape)
+        # Tab data
+        print("Tab data: ", tab_data[0])
+        # Audio data
+        if self.plot:
+            plt.figure(figsize=(16, 9))
+            plt.imshow(full_audio_data[:,1000:1200], cmap="jet")
+            plt.show()
+        return tempo, tab_data, audio_data
