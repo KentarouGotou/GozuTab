@@ -45,7 +45,7 @@ class Processing:
             
         # effect list
         self.effect_list = {
-            # "dead" : "ded",
+            "dead" : "ded",
             # "ghost_note" : "gst",
             "harmonic" : "har",
             "vibrato" : "vib",
